@@ -19,4 +19,3 @@ If you have any questions or feedback, please don't hesitate to reach out. You c
 ---
 
 We hope you enjoy using and watching **the-wild-oasis** as much as we enjoyed creating it. Thank you for your support! 🌱
-(, context API, memo, useMemo, useCallback)
